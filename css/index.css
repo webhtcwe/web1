@@ -1,0 +1,23 @@
+body {
+	min-width: 1000px !important;
+}
+
+.bg-custom {
+	background-color: transparent !important;
+	
+}
+
+.home-bg1 {
+	background: url('../images/home1_bg1.jpg') no-repeat;
+	background-size: 100%;
+	height: 640px;
+}
+
+.home-bg1 .position-absolute {
+	top: 220px;
+	left: 800px;
+}
+
+.home-bg1 .position-absolute p {
+	width: 500px;
+}
